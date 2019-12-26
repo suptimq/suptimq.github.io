@@ -27,6 +27,7 @@ projects:
     forks: false
     projects:
     # - repo-name
+      - suptimq.github.io
 
 social_media:
   # behance: your_username
