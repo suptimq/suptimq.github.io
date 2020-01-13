@@ -49,33 +49,25 @@ social_media:
 
 topics:
   - name: Python
-    web_url: https://www.python.org/
     image_url: assets/python-logo.png
 
   - name: Java
-    web_url: https://www.java.com/en/
     image_url: assets/java-logo.png
 
   - name: Django
-    web_url: https://www.djangoproject.com/
     image_url: assets/django-logo.png
 
   - name: Flask
-    web_url: https://flask.palletsprojects.com/en/1.1.x/
     image_url: assets/flask-logo.png
 
   - name: Vue
-    web_url: https://vuejs.org/
     image_url: assets/vue-logo.png
 
   - name: Angular
-    web_url: https://angular.io/
     image_url: assets/angular-logo.png
 
   - name: NodeJS
-    web_url: https://nodejs.org/en/
     image_url: assets/node-logo.png
 
   - name: MongoDB
-    web_url: https://www.mongodb.com/
     image_url: assets/mongodb-logo.png
